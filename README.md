@@ -9,6 +9,7 @@ and istanbul.
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
 ## Run CI for this repo on Shippable
+TEST TEST TEST
 * Fork this repo into your local repo
 * Login into the [Continuous Integration Service](wwww.shippable.com)
 * All CI configuration is in `shippable.yml`
