@@ -1,4 +1,4 @@
-
+Add New Header to Readme
 # Continuous Integration for a Node JS application
 [![Run Status](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/badge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
 [![Coverage Badge](https://api.shippable.com/projects/588579c63b653a0f00fa68d3/coverageBadge?branch=master)](https://app.shippable.com/projects/588579c63b653a0f00fa68d3)
@@ -9,7 +9,6 @@ and istanbul.
 ![AyeAye](https://github.com/shippableSamples/node-with-tests-coverage/blob/master/public/resources/images/captain.png)
 
 ## Run CI for this repo on Shippable
-TEST TEST TEST
 * Fork this repo into your local repo
 * Login into the [Continuous Integration Service](wwww.shippable.com)
 * All CI configuration is in `shippable.yml`
